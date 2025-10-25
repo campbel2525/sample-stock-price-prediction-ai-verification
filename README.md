@@ -1,3 +1,5 @@
+[English README](https://github.com/campbel2525/sample-stock-price-prediction-ai-verification/blob/main/README-ENGLISH.md)
+
 # 概要
 
 株価予想の検証リポジトリです
